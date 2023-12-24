@@ -1,4 +1,4 @@
-# Hi there, I'm Atharva - aka [Pr1meGOD ][youtube] 👋 
+# Hi there, I'm Atharva - aka Pr1meGOD 👋 
 
 ## I'm a Student, Developer, Gamer, and Fitness Freak!
 
