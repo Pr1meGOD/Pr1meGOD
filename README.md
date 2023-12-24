@@ -28,10 +28,9 @@
 
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pr1meGOD&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Pr1meGOD's Github Stats" src="https://github-readme-stats-pr1megods-projects.vercel.app//api?username=Pr1meGOD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
