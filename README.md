@@ -37,4 +37,3 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pr1meGOD&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
