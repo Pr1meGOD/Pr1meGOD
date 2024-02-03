@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, Gamer, and Fitness Freak!
 
-- 🌱 I’m currently learning some web development and java 🎧
+- 🌱 I’m currently learning web development and java 🎧
 - 🥅 2024 Goals: Learn full web development (HTML, CSS, JS, FRONT END LIBRARIES AND DATABASES) and learn Java.
 - ⚡ Fun fact: I love to code, play video games and exercise.
 - 😻 Check out some of my projects: [Projects](https://github.com/Pr1meGOD?tab=repositories)
