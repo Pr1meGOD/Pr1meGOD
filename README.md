@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, Gamer, and Fitness Freak!
 
-- 🌱 I’m currently learning web development and java 🎧
-- 🥅 2024 Goals: Learn full web development (HTML, CSS, JS, FRONT END LIBRARIES AND DATABASES) and learn Java.
+- 🌱 I’m currently learning Python and AI/ML related concepts.
+- 🥅 2025 Goals: Learn Python completely, and use it to learn AI/ML.
 - ⚡ Fun fact: I love to code, play video games and exercise.
 - 😻 Check out some of my projects: [Projects](https://github.com/Pr1meGOD?tab=repositories)
 - 📫 How to reach me   <a href = "mailto:atharvapalande2212@gmail.com" >
